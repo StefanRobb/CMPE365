@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Takes a file with flight data and computes the fastest way a person can get from one city to another through various flight plans.
+# @author Stefan Robb
+
 # In[19]:
 
 
