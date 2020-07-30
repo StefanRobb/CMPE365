@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Search algorithms.
+# @author Stefan Robb
+
 # In[46]:
 
 
