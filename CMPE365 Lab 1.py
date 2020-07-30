@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Dijkstra Algorithm in its pure form computing lowest cost path.
+# @author Stefan Robb
+
 # In[ ]:
 
 
