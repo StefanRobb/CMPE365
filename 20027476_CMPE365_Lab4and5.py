@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Solves the subset problem finding the largest amount of different sized coins that can add up to a sum.
+# @author Stefan Robb
+
 # In[33]:
 
 
